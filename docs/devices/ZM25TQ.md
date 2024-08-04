@@ -24,6 +24,9 @@ pageClass: device-page
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
 
+### Pairing
+
+Press the pair button next to the USB port with a tooth pick 3 times within 5 seconds. The motor will briefly spin up and down to indicate pairing mode and the LED will flash rapidly. Once connected, the LED will flash slowly. The LED will only stop flashing once the motor has been engaged (OPEN or CLOSE).
 
 <!-- Notes END: Do not edit below this line -->
 
